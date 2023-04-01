@@ -3,17 +3,17 @@
 Hi, I'm Leah 👋
 ========================================================
 
-- 🔭 I'm currently **enhancing my full-stack skills through the 12-week Tech Academy at Bright Network, focusing on both front-end and back-end development.**
+- 🔭 I'm currently **enhancing my full-stack skills through the 12-week Tech Academy at Bright Network, focusing on both front-end and back-end development**
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 👯 I'm looking to collaborate **on projects that make a positive difference in society, while also providing opportunities for personal and professional growth.**
+- 👯 I'm looking to collaborate **on projects that make a positive difference in society, while also providing opportunities for personal and professional growth**
 
 - 📫 How to reach me: **lnsimonn@hotmail.com**
 
 - ⚽ Fun fact, **I'm a huge football fan**
 
-- ⚡  In my spare time, **you can find me attending hackathons and tech conferences.**
+- ⚡  In my spare time, **you can find me attending hackathons and tech conferences**
 
 
 
