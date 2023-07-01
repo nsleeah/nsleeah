@@ -3,7 +3,7 @@
 Hi, I'm Leah 👋
 ========================================================
 
-- 💻 I'm currently **a software development intern @comparethemarket, enhancing my skills and gaining industry experience.**
+- 💻 I'm currently **a software development intern @comparethemarket, enhancing my skills and gaining industry experience**
 
 - 🔭  I recently completed **a 12-week bootcamp with Bright Network Tech Academy, developing skills in both front-end and back-end development**
 
