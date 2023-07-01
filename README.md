@@ -3,9 +3,11 @@
 Hi, I'm Leah 👋
 ========================================================
 
-- 🔭 I'm currently **enhancing my full-stack skills through the 12-week Tech Academy at Bright Network, focusing on both front-end and back-end development**
+- 💻 I'm currently **a software development intern @comparethemarket, enhancing my skills and gaining industry experience.**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🔭  I recently completed **a 12-week bootcamp with Bright Network Tech Academy, developing skills in both front-end and back-end development**
+
+- 🌱 I’m currently learning **Swift and IOS Development 📱**
 
 - 👯 I'm looking to collaborate **on projects that make a positive difference in society, while also providing opportunities for personal and professional growth**
 
@@ -13,7 +15,7 @@ Hi, I'm Leah 👋
 
 - ⚽ Fun fact, **I'm a huge football fan**
 
-- ⚡  In my spare time, **you can find me attending hackathons and tech conferences**
+- ⚡  In my spare time, **you can find me attending hackathons and tech conferences, and networking events**
 
 # 💻 Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
