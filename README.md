@@ -5,11 +5,7 @@ Hi, I'm Leah 👋
 
 - 💻 I'm currently a **Junior Software Engineer @ comparethemarket.com**
 
-- 🌱 I’m currently learning **Swift and IOS Development 📱**
-
 - 👯 I'm looking to collaborate **on projects that make a positive difference in society, while also providing opportunities for personal and professional growth**
-
-- 📫 How to reach me: **lnsimonn@hotmail.com**
 
 - ⚽ Fun fact, **I'm a huge football fan**
 
