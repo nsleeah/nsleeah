@@ -3,14 +3,6 @@
 Hi, I'm Leah 👋
 ========================================================
 
-- 💻 I'm currently a **Junior Software Engineer @ comparethemarket.com**
-
-- 👯 I'm looking to collaborate **on projects that make a positive difference in society, while also providing opportunities for personal and professional growth**
-
-- ⚽ Fun fact, **I'm a huge football fan**
-
-- ⚡  In my spare time, **you can find me attending hackathons and tech conferences, and networking events**
-
 # 💻 Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -33,4 +25,6 @@ Hi, I'm Leah 👋
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
 ---
